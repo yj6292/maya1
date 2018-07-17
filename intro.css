@@ -1,0 +1,74 @@
+#title{
+  color: black;
+  font-size: 3.2em;
+  text-align: center;
+}
+#intropic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#aboutme{
+  color: violet;
+  font-size: 2em;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#aboutmes {
+  color: purple;
+  font-size: 1.4em;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#funfacts{
+  color: violet;
+  font-size: 2em;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#funfactss {
+  color: purple;
+  font-size: 1.4em;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#thingsivedone{
+  color: violet;
+  font-size: 2em;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#thingsivedones {
+  color: purple;
+  font-size: 1.4em;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#faves{
+  color: violet;
+  font-size: 2em;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#favess {
+  color: purple;
+  font-size: 1.4em;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+body{
+  font-family: inherit;
+  background-image: linear-gradient(pink, lightgray, turquoise);
+}
+#linkedinlink{
+  color: purple;
+  font-size: 1.5em;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#instalink{
+  color: purple;
+  font-size: 1.5em;
+  margin-left: 50px;
+  margin-right: 50px;
+}
